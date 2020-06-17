@@ -17,6 +17,6 @@ return sum;
 
 class Triangle extends Polygon {
   constructor() {
-    
+
   }
 }
