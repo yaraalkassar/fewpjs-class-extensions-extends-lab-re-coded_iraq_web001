@@ -42,6 +42,7 @@ for (var i = 0; i < this.sides.length; i++) {
 }
 
 get area(){
-
+  let side = this.sides[0];
+      return side **2;
 }
 }
