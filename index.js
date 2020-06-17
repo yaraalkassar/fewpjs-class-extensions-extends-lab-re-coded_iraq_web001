@@ -30,7 +30,9 @@ get isValid(){
 }
 
 class Square extends Polygon {
-  constructor() {
-
-  }
+  get isValid(){
+for (var i = 0; i < this.sides.length; i++) {
+  if(this.sides[i]==this.sides[i+1])
+}
+}
 }
