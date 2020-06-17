@@ -31,6 +31,6 @@ get isValid(){
 
 class Square extends Polygon {
   constructor() {
-    
+
   }
 }
