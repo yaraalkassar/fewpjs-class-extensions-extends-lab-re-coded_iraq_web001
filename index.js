@@ -33,6 +33,11 @@ class Square extends Polygon {
   get isValid(){
 for (var i = 0; i < this.sides.length; i++) {
   if(this.sides[i]==this.sides[i+1])
+  {
+    return true
+  }else{
+    return false
+  }
 }
 }
 }
