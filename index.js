@@ -26,6 +26,11 @@ get isValid(){
    }else{
      return false
    }
-
 }
+}
+
+class Square extends Polygon {
+  constructor() {
+    
+  }
 }
