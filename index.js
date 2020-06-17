@@ -40,4 +40,8 @@ for (var i = 0; i < this.sides.length; i++) {
   }
 }
 }
+
+get area(){
+
+}
 }
